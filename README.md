@@ -2,7 +2,7 @@
 
 🎓 B.Tech Student | 🌐 Web Development | 🔐 Cyber Security  
 🔭 Currently learning: Linux, Python, Networking  
-📫 Reach me: [Email](mailto:komalikatapalli39@gmail.com)
+📫 Reach me:komalikatapalli39@gmail.com
 
 💻 Tech I Use: HTML | CSS | Git | Kali Linux
 
