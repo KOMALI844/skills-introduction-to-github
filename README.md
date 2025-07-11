@@ -1,10 +1,15 @@
-👩‍💻 Komali Katapalli – Web Developer & Cybersecurity Learner
+ Hi there 👋 I'm Komali Katapalli
 
-Welcome to my GitHub repo!  
-This repository contains beginner-level work on:
+🎓 B.Tech Student | 🌐 Web Development | 🔐 Cyber Security  
+🔭 Currently learning: Linux, Python, Networking  
+📫 Reach me: [Email](mailto:komalikatapalli39@gmail.com)
 
-- 🌐 Web development (HTML, CSS)
-- 🔐 Cybersecurity basics
-- ☁️ Cloud concepts
+💻 Tech I Use: HTML | CSS | Git | Kali Linux
 
-Stay tuned for more projects!
+📌 My Goals
+- 🌱 Learn more about Cybersecurity & Networking
+- 💻 Build real-world cybersecurity tools
+- 📝 Share my learning on GitHub
+
+Thanks for visiting! 🚀
+
