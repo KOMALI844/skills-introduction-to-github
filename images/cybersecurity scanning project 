@@ -1,0 +1,49 @@
+🔍 Cybersecurity Scanning Project 
+
+## 📘 Project Overview
+This project focuses on identifying open ports, running services, and basic vulnerabilities in target systems or websites using **graphical or terminal-based tools**
+
+ 🧰 Tools Used
+| Tool       | Description                              |
+|------------|------------------------------------------|
+| **Zenmap** | GUI for Nmap, used for port scanning     |
+| **Nikto**  | Web server vulnerability scanner         |
+| **Shodan** | Search engine for internet-connected devices |
+| **Wireshark** | Network packet capture and analysis    |
+
+---
+
+🖥️ Targets Scanned
+- Localhost (127.0.0.1)
+- Internal Network IP (e.g., `192.168.1.1`)
+- TryHackMe Virtual Machines
+- Sample vulnerable website: `http://testphp.vulnweb.com`
+
+---
+ 🔎 Scans Performed
+
+✅ Zenmap
+- Port scan on local network device
+- Detected services: SSH, HTTP, HTTPS
+- OS fingerprinting enabled
+
+✅ Nikto
+- Checked web server for:
+  - Outdated Apache versions
+  - Directory indexing
+  - Default files
+
+✅ Shodan
+- Searched exposed devices by location & technology
+- Example query: `apache country:"IN"`
+
+✅ Wireshark
+- Captured live HTTP packets
+- Filtered and analyzed request/response data
+
+
+📚 Learning Outcome
+- Understood scanning methods in cybersecurity
+- Used real tools without any programming
+- Learned how to detect basic vulnerabilities in networks and websites
+
